@@ -9,7 +9,7 @@ namespace ControlPersonas
 {
     internal class Persona
     {
-        //Campos 
+        //Campo
         //privados para cumplir con el encapsulado
         String dpi;
         String nombre;
